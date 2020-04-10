@@ -1,6 +1,6 @@
 
 Date  ---- 10/04/20 
-1) 2 modules of React Course + 2 hours of React Tutorial
+1) 2 modules of React Course --  https://github.com/kiran-code/react-refresher-03
 2) 1 module of Java OOPS concepts from the course + 2 Hours of Java Revision
 3) 1 hour of D3.js course on youtube
 4) 2 hours of HTML CSS course
